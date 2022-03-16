@@ -1,0 +1,20 @@
+/* .container{
+    text-align: center;
+} */
+
+body{
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 26%;
+    margin-left: 37%;
+    text-align: center;
+}
+
+.complement{
+    color: #0055b8;
+}
+
+#logo{
+    width: 95%;
+    height: auto;
+}
